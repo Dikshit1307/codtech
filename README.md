@@ -11,7 +11,8 @@ Duration: 1st june to 30th june
 
 Mentor: SRAVANI GOUNI
 
-OVERVIEW OF THE PROJECT: 
+OVERVIEW OF THE PROJECT: ![image](https://github.com/user-attachments/assets/3febd70c-8d1d-43b7-b35d-192b54968ff6)
+
 
 
 project: SIMPLE CALCULATOR
