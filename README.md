@@ -3,16 +3,19 @@ Name: K Dikshit
 
 Company: CODTECH IT solutions
 
-ID:CT08DS1369
+ID: CT08DS5411
 
 Domain:Python
 
-Duration: 1st june to 30th june
+Duration: 20th july 2024 to 20th August 2024
 
 Mentor: SRAVANI GOUNI
 
-OVERVIEW OF THE PROJECT: ![image](https://github.com/user-attachments/assets/3febd70c-8d1d-43b7-b35d-192b54968ff6)
+OVERVIEW OF THE PROJECT: 
 
+![image](https://github.com/user-attachments/assets/3febd70c-8d1d-43b7-b35d-192b54968ff6)
+
+![PHOTO-2024-07-28-21-13-56](https://github.com/user-attachments/assets/9cd183e3-a4f0-4327-b749-e9b51aee1dd7)
 
 
 project: SIMPLE CALCULATOR
